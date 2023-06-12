@@ -246,3 +246,5 @@ LinkedIn : [**Shalini Muskula | LinkedIn**](https://www.linkedin.com/in/shalini-
 [Insertion sort - Wikipedia](https://en.wikipedia.org/wiki/Insertion_sort)
 
 [Sorting (Bubble, Selection, Insertion, Merge, Quick, Counting, Radix) - VisuAlgo](https://visualgo.net/en/sorting?slide=1)
+
+Memes: [Sorting Meme Review » PREP INSTA](https://prepinsta.com/sorting-meme-review/)
