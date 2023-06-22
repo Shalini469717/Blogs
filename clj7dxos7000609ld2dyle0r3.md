@@ -176,7 +176,7 @@ arr = np.random.rand(2) #[0.67408218, 0.6168245 ]
 np.random.randn(5) #[ 0.9077414, -1.4007080,  0.0035573, -1.0919055,  0.7274706]
 ```
 
-# Reshaping
+## Reshaping
 
 The number of dimensions and items in an array is defined by its shape. The shape of an array is a tuple of non-negative integers that specify the sizes of each dimension. For example, for a 2 x 3 matrix or an array having 2 rows and 3 columns, then you can represent the shape of the array by a tuple as (2,3).
 
@@ -190,7 +190,7 @@ arr.reshape(2,3)
 #       [15, 14, 10]]
 ```
 
-# Contcatanation and Sorting
+## Contcatanation and Sorting
 
 Let's talk about axes in NumPy. Axes are **defined for arrays with more than one dimension**. A 2-dimensional array has two corresponding axes: the first running vertically downwards across rows (axis 0), and the second running horizontally across columns (axis 1).
 
