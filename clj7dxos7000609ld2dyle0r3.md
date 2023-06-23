@@ -297,7 +297,8 @@ This isn't all there is to NumPy, it is vast and the documentation is your sole 
 # **Let's Connect**
 
 Twitter: [**Shalini Muskula**](https://twitter.com/noname469717)  
-Github: [**Shalini469717 (Shalini) (**](https://github.com/Shalini469717)[**github.com**](http://github.com)[**)**](https://github.com/Shalini469717)**LinkedIn :** [**Shalini Muskula | LinkedIn**](https://www.linkedin.com/in/shalini-muskula-52323922a/)
+Github: [**Shalini469717 (Shalini) (**](https://github.com/Shalini469717)[**github.com**](http://github.com)[**)**](https://github.com/Shalini469717)  
+**LinkedIn :** [**Shalini Muskula | LinkedIn**](https://www.linkedin.com/in/shalini-muskula-52323922a/)
 
 # References
 
